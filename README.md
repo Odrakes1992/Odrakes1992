@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://www.linkedin.com/in/osneil-drakes-cta">
+ <a href="https://www.linkedin.com/in/osneil-drakes">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="#">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
