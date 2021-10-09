@@ -14,8 +14,17 @@
 
 # Howdy 👋 I am Osneil. 
 
-Tax advisor turned aspiring software developer. I am currently a part of the Makers Bootcamp learning TDD, Ruby, Javascript, Rspec Jasmine and More. 
+Historian turned Tax advisor turned aspiring Software Developer. 
 
+# Tech Stack
+
+Languages: Javascript, Ruby, HTML, CSS, SQL
+
+Frameworks: REACT, Node.js, Express, Rails, Sinatra
+
+Testing: Jest, Jasmine, Rspec, FactoryBot, Capybara, self-built testing library
+
+Workflow: Git, Github, TDD, Pair/Mob Programming
 
 
 # Github Stats
