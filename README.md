@@ -14,7 +14,7 @@
 
 # Howdy 👋 I am Osneil. 
 
-Historian turned Tax advisor turned aspiring Software Developer. 
+Historian turned Tax Advisor turned aspiring Software Developer. 
 
 # Tech Stack
 
