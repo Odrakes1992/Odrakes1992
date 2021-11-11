@@ -43,7 +43,7 @@ See below for a selection of my projects.
 | [TradeRunner][1]|Final group project,a crypto trading bot connected to the Binance exchange which automates the trading of cryptocurrencies in your wallet based on preset strategies. Name and styling inspired by the BladeRunner series.|10 Days|Python, Django, Django Testing Framweork, CSS, Bootstrap, Javascript, MySQL|
 | [Bank Tech Test][2]|An example tech test, written and tested in Ruby with Rspec, demonstrating TDD TDD, OOP and clean code principles.|2 Days|Ruby, RSpec|
 | [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. |10 Days|Ruby, Rails, HTML, RSpec,Postgres|
-| [Murder she note][4]|Group project. Group project. An interactive notes app. Hope Jessica Fletcher sees this.|5 Days|Javascript, CSS, HTML, Jasmine|
+| [Murder she note][4]|Group project. An interactive notes app. Hope Jessica Fletcher sees this.|5 Days|Javascript, CSS, HTML, Jasmine|
 | [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
 [1]:https://github.com/florence-bain/CRYP-3PO
