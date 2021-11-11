@@ -24,7 +24,13 @@
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+<br><br>
 
+Hello again, as the tag line notes my name is Osneil. It also says that I was a historian, which is a slight stretch, I did study history at university and it was my first love, so technically still a historian.
+
+I actually really enjoyed my degree and to this day it still is a surprise that I am not in academia, but I was lured by a career in professional services. The books were a lot bigger this time but the processes still the same. Whilst the topics were very different, it was another opportunity to learn new stuff. 
+
+And that's what I've discovered, I really like to learn new stuff and I put that down to the historian in me. My degree started me down a path of learning and here I am as a software developer, which is very apt because apparently software developers never stop learning so I think I will fit in ok.
 
 ### Web development projects
 
@@ -46,8 +52,27 @@ See below for a selection of my projects.
 [4]:https://github.com/Jessocxz98/Murder-she-note
 [5]:https://github.com/Odrakes1992/chitter-challenge
 
+### 📚 &nbsp; What I've studied
+
+ * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
+ * <strong>Chartered Tax Advisor</strong>, <em>Chartered Institute of Taxation</em>
+ * <strong>BA History</strong>, <em>University of Kent</em>
+
+###   🌴 &nbsp; Things that keep me sane
+* Podcasts
+* Art Galleries
+* Travelling
+* NFL Fantasy Football
+* Hiking
+* Rightmove perusals
 
 
+
+<br><br>
+<h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
+
+<br><br><br><br>
+            
 # Github Stats
 [![Osneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=odrakes1992&show_icons=true&theme=radical)](https://github.com/odrakes1992/github-readme)
 
@@ -57,6 +82,3 @@ See below for a selection of my projects.
 
 
 
-
-<br><br>
-<h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
