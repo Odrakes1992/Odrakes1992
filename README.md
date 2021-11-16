@@ -34,7 +34,7 @@ And that's what I've discovered, I really like to learn new stuff and I put that
 
 ### Web development projects
 
-I have just finished the Makers Academy Bootcamp. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack show above. I also picked up some mentees along the way - 4 and counting!
+I have just finished the Makers Academy Bootcamp. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack shown above. I also picked up some mentees along the way - 4 and counting!
 
 See below for a selection of my projects.
 
