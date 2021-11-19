@@ -46,7 +46,7 @@ See below for a selection of my projects.
 | [Murder she note][4]|Group project. An interactive notes app. Hope Jessica Fletcher sees this.|5 Days|Javascript, CSS, HTML, Jasmine|
 | [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
-[1]:https://github.com/florence-bain/CRYP-3PO
+[1]:https://github.com/Odrakes1992/CRYP-3PO
 [2]:https://github.com/Odrakes1992/bank-tech-test
 [3]:https://github.com/KeldraSJ/acebook-runtime-terror
 [4]:https://github.com/Jessocxz98/Murder-she-note
