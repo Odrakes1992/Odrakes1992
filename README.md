@@ -66,12 +66,6 @@ See below for a selection of my projects.
 * Hiking
 * Rightmove perusals
 
-
-
-<br><br>
-<h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
-
-<br><br><br><br>
             
 # Github Stats
 [![Osneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=odrakes1992&show_icons=true&theme=radical)](https://github.com/odrakes1992/github-readme)
