@@ -1,7 +1,7 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/osneil-drakes-cta-07909068/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="https://portfolio-website-od.herokuapp.com">
+     <a href="https://osneil-drakes-portfolio.vercel.app">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
  <a href="mailto:osneil-drakes@hotmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -30,7 +30,7 @@ Hello again, as the tag line notes my name is Osneil. It also says that I was a 
 
 I actually really enjoyed my degree and to this day it still is a surprise that I am not in academia, but I was lured by a career in professional services. The books were a lot bigger this time but the processes still the same. Whilst the topics were very different, it was another opportunity to learn new stuff. 
 
-And that's what I've discovered, I really like to learn new stuff and I put that down to the historian in me. My degree started me down a path of learning and here I am as a software developer, which is very apt because apparently software developers never stop learning so I think I will fit in ok.
+And that's what I've discovered, I really like to learn new stuff and I put that down to the historian in me. My degree started me down a path of learning and here I am as a software developer, which is very apt because apparently software developers never stop learning so if there was a career to change into this would be the one.
 
 ### Web development projects
 
@@ -41,13 +41,13 @@ See below for a selection of my projects.
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 | [TradeRunner][1]|Final group project, a crypto trading bot connected to the Binance exchange which automates the trading of cryptocurrencies in your wallet based on preset strategies. Name and styling inspired by the BladeRunner series.|10 Days|Python, Django, Django Testing Framweork, CSS, Bootstrap, Javascript, MySQL|
-| [Bank Tech Test][2]|An example tech test, written and tested in Ruby with Rspec, demonstrating TDD TDD, OOP and clean code principles.|2 Days|Ruby, RSpec|
+| [Hinge Will Happen][2]|A simple (post-bootcamp) website, written in React, which analyses your dating app data in the form of fun charts and graphs. |-|React|
 | [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. |10 Days|Ruby, Rails, HTML, RSpec,Postgres|
 | [Murder she note][4]|Group project. An interactive notes app. Hope Jessica Fletcher sees this.|5 Days|Javascript, CSS, HTML, Jasmine|
 | [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
 [1]:https://github.com/Odrakes1992/CRYP-3PO
-[2]:https://github.com/Odrakes1992/bank-tech-test
+[2]:https://hinge-will-happen.vercel.app
 [3]:https://github.com/KeldraSJ/acebook-runtime-terror
 [4]:https://github.com/Jessocxz98/Murder-she-note
 [5]:https://github.com/Odrakes1992/chitter-challenge
