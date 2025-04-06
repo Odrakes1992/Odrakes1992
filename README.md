@@ -14,17 +14,7 @@
 
 <h1 align="center"> Howdy 👋 I am Osneil </h1>
 
-<h3 align="center"> I was a Historian, then I became a Tax Advisor and now I am a Full Stack Developer. </h3>
-
-
-
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
-
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<br><br>
+<h3 align="center"> I was a Historian, then I became a Tax Advisor and now I am a Software Engineer. </h3>
 
 Hello again, as the tag line notes my name is Osneil. It also says that I was a historian, which is a slight stretch, I did study history at university and it was my first love, so technically still a historian.
 
@@ -32,11 +22,66 @@ I actually really enjoyed my degree and to this day it still is a surprise that 
 
 And that's what I've discovered, I really like to learn new stuff and I put that down to the historian in me. My degree started me down a path of learning and here I am as a software developer, which is very apt because apparently software developers never stop learning so if there was a career to change into this would be the one.
 
-### Web development projects
+### 💻 Tech Experience
 
-I have just finished the Makers Academy Bootcamp. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack shown above. I also picked up some mentees along the way - 4 and counting!
+I finished the Makers Academy Bootcamp in November 2021, time has been flying. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack shown above. I also picked up some mentees along the way - 4 and counting!
 
-See below for a selection of my projects.
+For a full breakdown of my experience have a look at my linkedin, I am currently working in climate and building some cool stuff with some folks at <a href="https://www.climatepolicyradar.org/what-we-do" target="_blank"> Climate Policy Radar </a>
+
+<h2>Languages & Syntax:</h2>
+<div>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+</div>
+
+<h2>Frontend Development:</h2>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
+<h2>Backend & Frameworks:</h2>
+<div>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+</div>
+
+<h2>Deployment & Cloud Services:</h2>
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+<h2>Database Management:</h2>
+<div>
+  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+### 📚 &nbsp; What I've studied
+
+ * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
+ * <strong>Chartered Tax Advisor</strong>, <em>Chartered Institute of Taxation</em>
+ * <strong>BA History</strong>, <em>University of Kent</em>
+
+###   🌴 &nbsp; Things that keep me sane
+* Sports podcasts
+* Art Galleries
+* Travelling
+* NFL Fantasy Football
+* My Rollei 35
+* My Pentax Progam A
+
+
+# Bootcamp Projects
+
+I like having these listed somewhere, neat little reminder of how far I've come.
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
@@ -51,28 +96,4 @@ See below for a selection of my projects.
 [3]:https://github.com/KeldraSJ/acebook-runtime-terror
 [4]:https://github.com/Jessocxz98/Murder-she-note
 [5]:https://github.com/Odrakes1992/chitter-challenge
-
-### 📚 &nbsp; What I've studied
-
- * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
- * <strong>Chartered Tax Advisor</strong>, <em>Chartered Institute of Taxation</em>
- * <strong>BA History</strong>, <em>University of Kent</em>
-
-###   🌴 &nbsp; Things that keep me sane
-* Podcasts
-* Art Galleries
-* Travelling
-* NFL Fantasy Football
-* Hiking
-* Rightmove perusals
-
-            
-# Github Stats
-[![Osneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=odrakes1992&show_icons=true&theme=radical)](https://github.com/odrakes1992/github-readme)
-
-# Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odrakes1992)](https://github.com/odrakes1992/github-readme)
-
-
 
