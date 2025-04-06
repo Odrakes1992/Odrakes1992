@@ -26,7 +26,7 @@ And that's what I've discovered, I really like to learn new stuff and I put that
 
 I finished the Makers Academy Bootcamp in November 2021, time has been flying. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack shown above. I also picked up some mentees along the way - 4 and counting!
 
-For a full breakdown of my experience have a look at my linkedin, I am currently working in climate and building some cool stuff with some folks at <a href="https://www.climatepolicyradar.org/what-we-do" target="_blank"> Climate Policy Radar </a>
+For a full breakdown of my experience have a look at my linkedin, I am currently working in climate and building some cool stuff with some folks at <a href="https://www.climatepolicyradar.org/what-we-do" target="_blank"> Climate Policy Radar </a> : `https://github.com/odrakes-cpr`
 
 <h2>Languages & Syntax:</h2>
 <div>
